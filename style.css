@@ -7,6 +7,8 @@ body {
   font-family: "My Custom Font";
   font-size: 180%;
   src: url("p5hatty.ttf") format("truetype");
+  cursor: url(cs.png), auto;
+  padding: 10px;
   
 }
 
