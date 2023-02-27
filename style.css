@@ -25,6 +25,8 @@ hr {
   position: relative;
   display: inline-block;
   margin: 0px 16px;
+  cursor: url(cs.png), auto;
+
 }
 .link-wrapper .fallback {
   font-size: 2.25em;
