@@ -4,8 +4,8 @@ body {
   height: 100vh;
   margin: 0;
   overflow: hidden;
-  font-family: "My Custom Font";
-  src: url("p5hatty.ttf") format("truetype");
+    font-family: "My Custom Font";
+    src: url("p5hatty.ttf") format("truetype");
 }
 
 hr {
